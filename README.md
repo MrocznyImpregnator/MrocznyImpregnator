@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MrocznyImpregnator
+- 👀 I’m interested in Unity (GameDev)
+- 🌱 I’m currently learning C#
+- 💞️ i’m looking to collaborate on game development
+- 📫 How to reach me on Discord
